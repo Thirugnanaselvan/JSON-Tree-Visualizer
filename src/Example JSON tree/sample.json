@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Thiru",
+    "address": { "city": "Chennai", "zip": "600001" },
+    "phones": ["+91-98xxxxxxx", "+91-99xxxxxxx"]
+  },
+  "items": [
+    { "id": "a1", "name": "Item A", "price": 9.99 },
+    { "id": "b2", "name": "Item B", "price": 19.5 }
+  ],
+  "active": true
+}
